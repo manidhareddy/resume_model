@@ -1,1 +1,2 @@
-# resume-_model
+# resume_model
+It looks cool 😎
